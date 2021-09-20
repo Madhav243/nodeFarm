@@ -1,4 +1,3 @@
-# nodeFarm
 
 <h1>Node Farm</h1>
 
